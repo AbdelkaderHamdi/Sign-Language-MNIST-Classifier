@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ---
 
 ## Résultats
-- Le modèle atteint une précision de **XX%** sur le jeu de test.
+- Le modèle atteint une précision de **93%** sur le jeu de test.
 - Exemples de prédictions en temps réel disponibles dans le notebook d'évaluation.
 
 ---
