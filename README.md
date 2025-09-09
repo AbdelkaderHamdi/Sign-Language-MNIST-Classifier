@@ -78,4 +78,3 @@ Les contributions sont les bienvenues ! Ouvrez une issue ou soumettez une pull r
 
 ## Contact
 Pour toute question, contactez-moi sur [LinkedIn](https://www.linkedin.com/in/abdelkader-hamdi/).
-```
