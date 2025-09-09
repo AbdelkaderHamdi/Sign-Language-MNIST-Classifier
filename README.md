@@ -44,13 +44,13 @@ pip install -r requirements.txt
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Sign-Language-MNIST-Classifier.git
+   git clone https://github.com/AbdelkaderHamdi/Sign-Language-MNIST-Classifier.git
    ```
 2. Installez les dépendances :
    ```bash
    pip install -r requirements.txt
    ```
-3. Téléchargez le jeu de données Sign Language MNIST depuis [Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist) et placez-le dans le dossier `data/`.
+3. Téléchargez le jeu de données Sign Language MNIST depuis [Kaggle](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) et placez-le dans le dossier `data/`.
 
 ---
 
@@ -77,5 +77,5 @@ Les contributions sont les bienvenues ! Ouvrez une issue ou soumettez une pull r
 ---
 
 ## Contact
-Pour toute question, contactez-moi sur [LinkedIn](https://www.linkedin.com/in/votre-profil/).
+Pour toute question, contactez-moi sur [LinkedIn](https://www.linkedin.com/in/abdelkader-hamdi/).
 ```
